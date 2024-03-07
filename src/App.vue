@@ -114,12 +114,12 @@ const nextQuestion = () => {
     <section v-else>
       <h2>Kamu telah menyelesaikan kuis</h2>
       <p>Jawaban yang benar adalah:</p>
-      <ul>
+      <ol>
         <!-- Daftar jawaban yang benar untuk setiap pertanyaan -->
         <li v-for="(question, index) in questions" :key="index">
           {{ question.question }}: {{ correctAnswers[index] }}
         </li>
-      </ul>
+      </ol>
       <!-- Tampilkan skor pengguna -->
       <p>Skor kamu adalah {{ score }} / {{ questions.length }}</p>
     </section>
