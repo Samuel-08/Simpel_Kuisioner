@@ -8,5 +8,5 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 ## my Chart
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://github.com/Samuel-08/Simpel_Kuisioner/edit/main/README.md)
+[![Gist Card]([https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d](https://github.com/Samuel-08/Simpel_Kuisioner/edit/main/README.md))](https://github.com/Samuel-08/Simpel_Kuisioner/edit/main/README.md)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-08&size_weight=0.5&count_weight=0.5)
