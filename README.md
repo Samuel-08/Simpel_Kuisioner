@@ -9,5 +9,4 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## my Chart
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-08&size_weight=0.5&count_weight=0.5)
-
- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Samuel-08)](https://github.com/Samuel-08)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Samuel-08&repo=Simpel_Kuisioner)](https://github.com/Samuel-08/Simpel_Kuisioner)
